@@ -23,7 +23,6 @@
 ### 📈 GitHub Stats:
 ![Aahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aahan0511&show_icons=true&theme=dark&hide_title=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahan0511&layout=compact&theme=dark)  
-![GitHub Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=aahan0511&theme=dark)
 
 ---
 
